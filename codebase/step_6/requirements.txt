@@ -1,0 +1,13 @@
+decorator
+jinja2
+matplotlib
+numpy 
+pandas
+pooch
+pycrostates
+scikit-image
+scikit-learn 
+scipy 
+fastapi
+uvicorn
+openpyxl>=3.1.2
