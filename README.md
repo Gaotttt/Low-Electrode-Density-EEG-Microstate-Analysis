@@ -1,2 +1,4 @@
 # Low-Electrode-Density-EEG-Microstate-Analysis
 A novel deep learning framework enable reliable microstate analysis using just eight electrodes, significantly reducing dependence on costly high-density setups and advancing clinical monitoring of psychiatric brain disorders.
+
+The EEG dataset used in this study can be provided by the corresponding author pending scientific review and a completed material transfer agreement. Requests for the dataset should be submitted to: zhang_tianhong@126.com. The codebase for data preprocessing and analysis is openly accessible on GitHub (https://github.com/Gaotttt/Low-Electrode-Density-EEG-Microstate-Analysis.git). In addition, we provide an open-source platform (http://221.122.70.196:30794/micro-web/) that enable users to run the full workflow online. Researchers are encouraged to use these resources for replication and further studies.
